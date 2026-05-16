@@ -1,4 +1,4 @@
-# 🦁 Zooparc de Thoiry — Site web dynamique
+# 🦁 Zooparc de Thoiry — Site web dynamique (2023)
 
 Site web PHP/MySQL permettant de consulter et gérer les animaux
 du Zooparc de Thoiry, avec un système d'authentification par rôles.
